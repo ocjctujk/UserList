@@ -1,0 +1,11 @@
+.user{
+    background-color: beige;
+    color: darkblue;
+    padding: 16px;
+    margin: 16px;
+    display: inline-block;
+}
+
+.hidden{
+    display: none;
+}
